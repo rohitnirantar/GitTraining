@@ -2,3 +2,5 @@ This is file A
 Before Uploading to Git Repo.
 
 Makig More changes to A.
+
+Testing Conflict Merge
