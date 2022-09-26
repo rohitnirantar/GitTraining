@@ -3,8 +3,4 @@ Before Uploading to Git Repo.
 
 Makig More changes to A.
 
-<<<<<<< HEAD
 Testing Conflict Merge
-=======
-Changes done in Main Repo
->>>>>>> 6836ee36b59edb39d1fddcd79dd528858ef80578
