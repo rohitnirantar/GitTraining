@@ -1,1 +1,2 @@
 This is file A
+Before Uploading to Git Repo
